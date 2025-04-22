@@ -66,7 +66,7 @@ your-repo-name/
 - To customize the UI (e.g., bounding box colors, table format), modify `app.py`.
 
 ## Contributors
-- https://github.com/iamsonuram
+- https://github.com/omkarjavali
 - https://github.com/D-6503
 
 ## Acknowledgments
