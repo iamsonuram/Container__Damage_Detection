@@ -18,8 +18,8 @@ A Streamlit web application for detecting damage in images using a pre-trained Y
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/omkarjavali/container_damage_detection.git
-   cd container_damage_detection
+   git clone https://github.com/iamsonuram/Container__Damage_Detection.git
+   cd Container_Damage_Detection
    ```
 
 2. **Create a virtual environment** *(optional but recommended)*:
